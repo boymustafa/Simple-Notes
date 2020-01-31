@@ -4,6 +4,10 @@
 - Follow MVVM
 - Uses Android architecture components
 
+Here's what it looks like:
+
+![Output sample](https://j.gifs.com/nxX21P.gif)
+
 ## Architecture
 MVVM is an architecture pattern that takes advantage of user device capabilities and browser memory to improve application performance
 
@@ -21,3 +25,6 @@ MVVM stands for Model, View, ViewModel.
 - Repository: Used to manage multiple data sources.
 
 [![](https://i.imgur.com/UQYoZQQ.png)]()
+
+
+
